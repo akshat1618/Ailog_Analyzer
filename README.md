@@ -22,7 +22,7 @@ A sample dataset of nginx web server logs is included for testing purposes, sour
 
 ## Example printout
 
-STRESSED can print out the analysis in a human-readable format.
+Ailog can print out the analysis in a human-readable format.
 
 ```
 ╭──────────────────────────────────────────────────────────────────────────────────────────╮
